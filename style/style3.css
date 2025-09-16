@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(132, 184, 230);
+    color: black;
+    font-family: cursive;
+    text-transform: uppercase;
+}
+
+image{
+    border: 10px solid navy;
+}
+video{
+ border: 10px solid navy;
+}
+audio{ border: 5px solid navy;
+}
